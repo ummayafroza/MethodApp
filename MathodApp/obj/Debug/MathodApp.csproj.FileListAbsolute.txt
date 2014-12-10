@@ -1,0 +1,5 @@
+E:\ASP.NET\Project\MathodApp\MathodApp\bin\Debug\MathodApp.exe.config
+E:\ASP.NET\Project\MathodApp\MathodApp\bin\Debug\MathodApp.exe
+E:\ASP.NET\Project\MathodApp\MathodApp\bin\Debug\MathodApp.pdb
+E:\ASP.NET\Project\MathodApp\MathodApp\obj\Debug\MathodApp.exe
+E:\ASP.NET\Project\MathodApp\MathodApp\obj\Debug\MathodApp.pdb
